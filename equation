@@ -1,0 +1,3 @@
+def testing(alpha, beta, sigma):
+  final_number = alpha * (beta - sigma)
+  return final_number
